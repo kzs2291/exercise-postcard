@@ -1,0 +1,36 @@
+body {
+    background-color: grey;
+
+}
+
+.logo
+    img {
+    padding-right: 15px;
+    float:right; 
+    }
+
+.postcard {
+    padding-top: 10px;
+    background-color: white;
+    height: 300px;
+    width: 460px;
+}
+
+.info {
+     text-align: left;
+    width: 40%; 
+    margin: 0 20px 0 0;
+    
+    
+}
+
+#infotext {
+    float: right;
+    width: 60%;
+    padding-left: 5%;
+    
+}
+
+.mybutton {
+    text-align:center ;
+}
